@@ -21,9 +21,8 @@ Visual components and Python
 
 
 ## Program
-DEVELOPED BY: MOHAMED NADHEEM N
-
-REGISTER NUM: 212223240091
+## DEVELOPED BY: MOHAMED NADHEEM N
+## REGISTER NUM: 212223240091
 ```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
